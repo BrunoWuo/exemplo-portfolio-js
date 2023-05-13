@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "PHP",
-        "logo": "https://raw.githubusercontent.com/BrunoWuo/exemplo-portfolio-js/main/data/img/php.png"
+        "logo": "./main/data/img/php.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/BrunoWuo/exemplo-portfolio-js/main/data/img/js.png"
+        "logo": "./main/data/img/js.png"
       }
     ],
     "softSkills": [
