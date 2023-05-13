@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "PHP",
-        "logo": "./main/data/img/php.png"
+        "logo": "./main/data/imgs/php.png"
       },
       {
         "name": "JavaScript",
-        "logo": "./main/data/img/js.png"
+        "logo": "./main/data/imgs/js.png"
       }
     ],
     "softSkills": [
