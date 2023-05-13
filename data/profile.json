@@ -1,0 +1,49 @@
+{
+  "name": "Bruno Caporossi Wuo",
+  "photo": "",
+  "job": "Senac",
+  "location": "Matinhos - PR",
+  "phone": "",
+  "email": "brunocw@bol.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "PHP",
+        "logo": "./data/img/php.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "./data/img/js.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (básico)"
+    
+  ],
+  "portfolio": [
+    {
+      "name": "Em Desenvolveimento",
+      "url": "https://github.com/BrunoWuo",
+      "github": true
+    }
+    
+  ],
+  "professionalExperience": [
+    {
+      "name": "instrutor / Senac",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e formar essa juventude para o mercado."
+    }
+    
+  ]
+}
